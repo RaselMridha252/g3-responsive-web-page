@@ -1,0 +1,27 @@
+
+/* primare style */
+.disply-flex{
+    display: flex;
+}
+
+/* nav styles */
+
+.heder{
+    background-color:#f0d9bdfa;
+}
+.nav-links{
+    justify-content: space-between;
+}
+
+.banner-name{
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.nav-li{
+    list-style: none;
+}
+
+.nav-link{
+    text-decoration: none;
+}
